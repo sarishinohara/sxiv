@@ -18,7 +18,7 @@ static const char * const WIN_BG_COLOR = "#071d22";
 static const char * const WIN_FS_COLOR = "#37bf8d";
 static const char * const SEL_COLOR    = "#37bf8d";
 static const char * const BAR_BG_COLOR = "#071d22";
-static const char * const BAR_FG_COLOR = "#071d22";
+static const char * const BAR_FG_COLOR = "#ffffff";
 
 #endif
 #ifdef _IMAGE_CONFIG
