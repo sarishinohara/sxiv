@@ -14,11 +14,11 @@ static const char * const BAR_FONT = "nu:size=8";
 /* colors:
  * (see X(7) section "COLOR NAMES" for valid values)
  */
-static const char * const WIN_BG_COLOR = "#ffffff";
-static const char * const WIN_FS_COLOR = "#37bf8d";
-static const char * const SEL_COLOR    = "#37bf8d";
-static const char * const BAR_BG_COLOR = "#ffffff";
-static const char * const BAR_FG_COLOR = "#000000";
+static const char * const WIN_BG_COLOR = "#1d383e";
+static const char * const WIN_FS_COLOR = "#e47d73";
+static const char * const SEL_COLOR    = "#e47d73";
+static const char * const BAR_BG_COLOR = "#1d383e";
+static const char * const BAR_FG_COLOR = "#e47d73";
 
 #endif
 #ifdef _IMAGE_CONFIG
